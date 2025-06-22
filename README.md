@@ -25,7 +25,7 @@ I specialize in creating **pixel-perfect UIs** using **React, Next.js, and TypeS
 
 - 🔭 Currently: Building a SaaS platform with Next.js 14  
 - 🌱 Learning: Advanced TypeScript & Web Performance Optimization  
-- 💬 Ask me about: React hooks, state management, or CSS frameworks  
+
 
 ---
 
